@@ -1,4 +1,4 @@
-list_1 = ["q", "qwer"]
+list_1 = ["apple", "orange"]
 
 if __name__ == '__main__':
 
